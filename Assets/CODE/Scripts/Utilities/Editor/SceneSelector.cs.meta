@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b36fb57930601fc42b78faa1c8a899eb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 294035
+  packageName: Extensions Pro
+  packageVersion: 2.1
+  assetPath: Assets/SABI/SceneSelector/SceneSelector.cs
+  uploadId: 739780
